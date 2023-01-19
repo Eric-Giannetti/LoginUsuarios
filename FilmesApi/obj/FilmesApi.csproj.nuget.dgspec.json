@@ -60,7 +60,7 @@
               "target": "Package",
               "version": "[5.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Proxies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.5, )"
             },
