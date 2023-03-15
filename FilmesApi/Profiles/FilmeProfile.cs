@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using FilmesApi.Data.Dtos.Gerente;
 using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
 using System;
