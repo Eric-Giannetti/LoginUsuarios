@@ -77,3 +77,6 @@ D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\L
 D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\obj\Debug\net5.0\UsuarioAPI.genruntimeconfig.cache
 D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\obj\Debug\net5.0\ref\UsuarioAPI.dll
 D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\bin\Debug\net5.0\FluentResults.dll
+D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\bin\Debug\net5.0\MailKit.dll
+D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\bin\Debug\net5.0\MimeKit.dll
+D:\Projetos\Estudos\Alura\.NET 5 e Identity implementando controle de usuário\LoginUsuarios\UsuarioAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
